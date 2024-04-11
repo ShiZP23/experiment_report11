@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.7)  11 APR 2024 14:47
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.7)  11 APR 2024 15:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -392,12 +392,7 @@ File: 其一.jpg Graphic file (type bmp)
 <其一.jpg>
 File: 其二.jpg Graphic file (type bmp)
 <其二.jpg>
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 62--82
-[]$[]$
- []
-
-[3] [4] [5] [6] [7] (./实验报告.aux)
+ [3] [4] [5] [6] [7] (./实验报告.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
@@ -406,7 +401,7 @@ L3 programming layer <2022/07/14>
 Here is how much of TeX's memory you used:
  9576 strings out of 474773
  261559 string characters out of 5761290
- 1934842 words of memory out of 5000000
+ 1937842 words of memory out of 5000000
  31628 multiletter control sequences out of 15000+600000
  563799 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
