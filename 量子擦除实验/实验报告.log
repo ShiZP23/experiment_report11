@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.7)  26 MAR 2024 12:31
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.7)  11 APR 2024 09:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -381,19 +381,35 @@ File: 干涉仪光路图.png Graphic file (type bmp)
 <干涉仪光路图.png>
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10> not available
 (Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 39.
- [2] (./实验报告.aux)
+ [2]
+File: 不加任何偏振片.jpg Graphic file (type bmp)
+<不加任何偏振片.jpg>
+File: 两边加入偏振方向相互垂直的偏振片后的图像.jpg Graphic file (type bmp)
+<两边加入偏振方向相互垂直的偏振片后的图像.jpg>
+File: 加入45度偏振片.jpg Graphic file (type bmp)
+<加入45度偏振片.jpg>
+File: 其一.jpg Graphic file (type bmp)
+<其一.jpg>
+File: 其二.jpg Graphic file (type bmp)
+<其二.jpg>
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 62--82
+[]$[]$
+ []
+
+[3] [4] [5] [6] [7] (./实验报告.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 9431 strings out of 474773
- 254808 string characters out of 5761290
- 1932842 words of memory out of 5000000
- 31490 multiletter control sequences out of 15000+600000
- 563791 words of font info for 79 fonts, out of 8000000 for 9000
+ 9576 strings out of 474773
+ 261559 string characters out of 5761290
+ 1934842 words of memory out of 5000000
+ 31628 multiletter control sequences out of 15000+600000
+ 563799 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,6n,97p,393b,288s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 实验报告.pdf (2 pages).
+Output written on 实验报告.pdf (7 pages).
